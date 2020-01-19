@@ -1,4 +1,4 @@
-# Hell Developers!
+# Hello Developers!
 
 We are always looking for bright sparks to help us digitise and revolutionise the world's agriculture industry. 
 
